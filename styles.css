@@ -1,0 +1,91 @@
+nav > div {
+    display: flex;
+    align-items: center;
+}
+.hero{
+    padding: 50px;
+}
+#left {
+    margin-left: auto;
+    margin-right: 50px;
+}
+.header{
+    width: 100%;
+    
+    
+}
+.probox{
+    display: inline-block;
+    width: 100px;
+    border: 10px;
+    background: rgba(4, 255, 205, 1);
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+#bg{
+    background-color:rgba(34, 31, 31, 0.9);
+    border-style:solid;
+    border-width: 1px;
+    border-color: rgba(4, 255, 205, 1);
+    color:white
+    
+}
+#about{
+    margin: 50px;
+    padding: 25px;
+}
+#skills{
+    margin: 50px;
+    padding: 20px;
+}
+#projects{
+    margin: 50px;
+    padding: 25px;
+}
+.skillbox{
+    border-style:groove;
+    border-radius: 20px;
+    width: 25%;
+    display:inline-block;
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+.projectbox{
+    border-style:groove;
+    border-radius: 20px;
+    width: 33%;
+    display:inline-block;
+    padding: 20px;
+    margin: 20px;
+}
+.image{
+    border-radius: 100px;
+}
+.contactbox{
+    display:inline-block;
+    
+}
+.navbar{
+    text-decoration:none;
+    color: aliceblue;
+    padding:20px;
+    
+}
+.navbar a:hover {
+  color: #22d3ee;
+}
+a:hover{
+    color: #22d3ee;
+}
+.pro{
+    text-decoration:none;
+    color: black;
+}
+.footer{
+    color: white;   
+    padding-top: 20px;
+}
+
